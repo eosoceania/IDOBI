@@ -59,7 +59,7 @@ Rerun deamon
 
 $ipfs daemon
 
-##Run App
+## Run App
 
 $npm install
 
