@@ -1,4 +1,6 @@
 # IDOBI
+
+### Warning: Repo has vulnerable dependencies. Dev mode only.
 This is a React App that allows you to connect to the IPFS network and immutably store files on the blockchain.
 
 ## Setup IPFS Gateway
